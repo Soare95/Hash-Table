@@ -1,4 +1,4 @@
-# Dummies Approach.
+# Dummies Approach..
 def first_recurring_char(array):
     for i in range(0, len(array)):
         for j in range(i + 1, len(array)):
